@@ -68,7 +68,6 @@ dependencies {
     implementation("androidx.compose.material:material:1.0.0")
     implementation("androidx.compose.ui:ui-tooling:1.0.0")
     implementation("androidx.compose.foundation:foundation:1.0.0")
-
     implementation ("androidx.compose.ui:ui:1.5.0") // versi Compose
     implementation ("androidx.compose.ui:ui-tooling:1.5.0")
     implementation ("androidx.compose.ui:ui-tooling-preview:1.5.0")
